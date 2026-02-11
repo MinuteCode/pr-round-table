@@ -181,7 +181,3 @@ START → judge → should_continue? → tools → judge → ... → END
 | `get_branches`     | All available git branches                       |
 | `read_file`        | Read file contents (path-validated, 50KB limit)  |
 | `find_file`        | Search repository for files by name              |
-
-## License
-
-This project is unlicensed. Feel free to use it as you see fit.
